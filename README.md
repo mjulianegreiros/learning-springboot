@@ -11,6 +11,7 @@ O repositório está organizado por módulos de aprendizado. Dentro de cada mód
 ### 📁 Módulo 1
 * **`testing-first`**: Prática de TDD com Spring Boot e JUnit. Foco em serialização e deserialização com Jackson, cobrindo fluxos de sucesso e tratamento de erros (JSON e dados inválidos).
 * **`spring-get-exercise`**: Implementação de endpoints GET para busca de usuários por ID e nome. Validação de respostas 200 e 404 seguindo a abordagem TDD, sem o uso de MockMvc.
+* **`biblioteca`**: Construção de uma API REST de biblioteca, entendendo JPA, H2 e rotas GET.
 
 > [!NOTE]
 > **Próximos Módulos:** (Em breve) novos exercícios serão adicionados conforme a progressão nos estudos.
