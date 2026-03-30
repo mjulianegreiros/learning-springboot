@@ -1,0 +1,6 @@
+com/example/biblioteca/repositories/AuthorRepository.class
+com/example/biblioteca/services/LibraryService.class
+com/example/biblioteca/entities/Author.class
+com/example/biblioteca/repositories/BookRepository.class
+com/example/biblioteca/entities/Book.class
+com/example/biblioteca/BibliotecaApplication.class
