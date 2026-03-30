@@ -27,5 +27,7 @@ cd modulo1/nome-do-exercicio
 
 # Execute o projeto
 ./mvnw spring-boot:run
+```
+---
 
 ** Mantido por Maria Júlia Negreiros **
