@@ -30,4 +30,4 @@ cd modulo1/nome-do-exercicio
 ```
 ---
 
-** Mantido por Maria Júlia Negreiros **
+**Mantido por Maria Júlia Negreiros**
