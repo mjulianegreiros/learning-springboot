@@ -13,6 +13,7 @@ O repositório está organizado por módulos de aprendizado. Dentro de cada mód
 * **`spring-get-exercise`**: Implementação de endpoints GET para busca de usuários por ID e nome. Validação de respostas 200 e 404 seguindo a abordagem TDD, sem o uso de MockMvc.
 * **`biblioteca`**: Construção de uma API REST de biblioteca, entendendo JPA, H2 e rotas GET.
 * **`catalogo`**: Prática de testes com Spring Boot e JUnit. Foco em validação de Repository e Controller, cobrindo persistência, respostas via ResponseEntity e retorno de Location URI.
+* **`item-api`**: Desenvolvimento de uma API REST para gerenciamento de itens com Spring Boot e Spring Data JPA. Implementação de endpoints GET (listagem e busca por id) e POST com retorno adequado (201 Created e Location). Integração com banco H2 em memória, uso de scripts SQL (data.sql) para inicialização de dados e prática de testes de integração com TestRestTemplate, validando requisições HTTP reais, status codes e fluxo completo da aplicação.
 
 > [!NOTE]
 > **Próximos Módulos:** (Em breve) novos exercícios serão adicionados conforme a progressão nos estudos.
