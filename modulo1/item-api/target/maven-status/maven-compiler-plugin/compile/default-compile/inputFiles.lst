@@ -1,0 +1,5 @@
+/home/julia/Documentos/cursos/spring/learning-springboot/modulo1/item-api/src/main/java/com/example/demo/model/Item.java
+/home/julia/Documentos/cursos/spring/learning-springboot/modulo1/item-api/src/main/java/com/example/demo/service/ItemService.java
+/home/julia/Documentos/cursos/spring/learning-springboot/modulo1/item-api/src/main/java/com/example/demo/DemoApplication.java
+/home/julia/Documentos/cursos/spring/learning-springboot/modulo1/item-api/src/main/java/com/example/demo/repository/ItemRepository.java
+/home/julia/Documentos/cursos/spring/learning-springboot/modulo1/item-api/src/main/java/com/example/demo/controller/ItemController.java
